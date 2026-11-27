@@ -1,2 +1,2 @@
-in this assignment, I made a game which is made to promote healthy gambling features in games. i made a weapon unlock and select with a basic enemy ai which can drop coins to use in a gambling machine to get more weapons. due to issues of teams deleting files, this is an older file that is missing features
+in this project, I made a game which is made to promote healthy gambling features in games. i made a weapon unlock and select with a basic enemy ai which can drop coins to use in a gambling machine to get more weapons. due to issues of teams deleting files, this is an older file that is missing features
 <img width="574" height="537" alt="image" src="https://github.com/user-attachments/assets/8a866263-eb45-461d-bbb4-ca8bf6c32841" />
